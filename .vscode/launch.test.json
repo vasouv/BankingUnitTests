@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "BankingUnitTests",
+                "projectName": "BankingUnitTests",
+                "workingDirectory": "c:\\DEV\\NetBeansProjects\\BankingUnitTests",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "BankingUnitTests",
+                "projectName": "BankingUnitTests",
+                "workingDirectory": "c:\\DEV\\NetBeansProjects\\BankingUnitTests",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
